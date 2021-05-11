@@ -3,7 +3,6 @@
 
 <br>
 
-
-![asd-removebg-preview(1)](https://user-images.githubusercontent.com/48776168/117237767-fe533b80-ae01-11eb-90b2-1713d858a4d8.png)
+![blackpanther_lob_fea_dsk_02](https://user-images.githubusercontent.com/48776168/117755741-27edd780-b1f3-11eb-980f-e2ed101ba987.jpg)
 
 Web en construcción del bootcamp de Lenio Labs. 
